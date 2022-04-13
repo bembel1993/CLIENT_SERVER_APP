@@ -1,0 +1,6 @@
+| Player-X have ||0|| score.
+| Player-0 have ||0|| score.
+
+| Player-X have ||100|| score.
+| Player-0 have ||-100|| score.
+
